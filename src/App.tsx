@@ -14,7 +14,7 @@ function App() {
     
       <div className='grid grid-cols-6 gap-6 mt-16'>
         <a href="" className='relative rounded-lg overflow-hidden'>
-          <img src="/game-1.png" alt="" />
+          <img src="/game-1.png" className='w-full' alt="" />
 
           <div className='w-full pt-16 pb-4 px-4 bg-game-gradient absolute bottom-0 left-0 right-0'>
             <strong className='font-bold text-white block'>League of Legends</strong>
@@ -23,7 +23,7 @@ function App() {
         </a>
 
         <a href="" className='relative rounded-lg overflow-hidden'>
-          <img src="/game-2.png" alt="" />
+          <img src="/game-2.png" className='w-full' alt="" />
           
           <div className='w-full pt-16 pb-4 px-4 bg-game-gradient absolute bottom-0 left-0 right-0'>
             <strong className='font-bold text-white block'>Dota 2</strong>
@@ -32,7 +32,7 @@ function App() {
         </a>
 
         <a href="" className='relative rounded-lg overflow-hidden'>
-          <img src="/game-3.png" alt="" />
+          <img src="/game-3.png" className='w-full' alt="" />
           
           <div className='w-full pt-16 pb-4 px-4 bg-game-gradient absolute bottom-0 left-0 right-0'>
             <strong className='font-bold text-white block'>Counter-strike: Global Offensive</strong>
@@ -41,7 +41,7 @@ function App() {
         </a>
 
         <a href="" className='relative rounded-lg overflow-hidden'>
-          <img src="/game-4.png" alt="" />
+          <img src="/game-4.png" className='w-full' alt="" />
           
           <div className='w-full pt-16 pb-4 px-4 bg-game-gradient absolute bottom-0 left-0 right-0'>
             <strong className='font-bold text-white block'>Apex</strong>
@@ -50,7 +50,7 @@ function App() {
         </a>
 
         <a href="" className='relative rounded-lg overflow-hidden'>
-          <img src="/game-5.png" alt="" />
+          <img src="/game-5.png" className='w-full' alt="" />
           
           <div className='w-full pt-16 pb-4 px-4 bg-game-gradient absolute bottom-0 left-0 right-0'>
             <strong className='font-bold text-white block'>Fortnite</strong>
@@ -59,7 +59,7 @@ function App() {
         </a>
 
         <a href="" className='relative rounded-lg overflow-hidden'>
-          <img src="/game-6.png" alt="" />
+          <img src="/game-6.png" className='w-full' alt="" />
           
           <div className='w-full pt-16 pb-4 px-4 bg-game-gradient absolute bottom-0 left-0 right-0'>
             <strong className='font-bold text-white block'>World of Warcraft</strong>
