@@ -30,6 +30,8 @@ Além disto, é importante ter um editor para trabalhar com o código como o [VS
 
 ### 📂 Rodando a aplicação web
 
+#### ⚠️⚠️ O <a href="https://github.com/Leonardo-Oliveira1/nlw-esports-server">servidor</a> deverá ficar rodando em segundo plano para que este projeto consuma os dados do banco. ⚠️⚠️
+
 ```bash
 # Clone este repositório
 $ git clone https://github.com/Leonardo-Oliveira1/nlw-esports-web.git
