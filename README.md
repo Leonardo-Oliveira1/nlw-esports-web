@@ -82,6 +82,6 @@ Feito com ❤️ por Leonardo Oliveira 👋🏽
 [![Gmail Badge](https://img.shields.io/badge/-oleonardo78@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oleonardo78@gmail.com)](mailto:oleonardo78@gmail.com)
 
 <h4 align="center"> 
-✔️  NLW eSports Server 💻🚀 Concluído  ✔️
+✔️  NLW eSports Web 💻🚀 Concluído  ✔️
 </h4>
 
