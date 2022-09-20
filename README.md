@@ -1,6 +1,6 @@
   <p align="center">
     <a href="https://unform.dev">
-      <img src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" height="250" width="275" alt="Unform" />
+      <img src="nlw-esports.svg" height="250" width="275" alt="Unform" />
     </a>
   </p>
 
@@ -8,7 +8,7 @@
   ## Você ja quis achar algum companheiro para jogar o mesmo jogo que você? 
   O __NLW eSports__ trata-se de uma aplicação que permite com que jogadores criem seus anúncios ou achem seu _duo_ (parceiro) para jogar junto.
   
-  <img src="https://github.com/IgorPoti/rocketseat-nlw-esports/raw/main/readme.png"/>
+  <img src="readme.png"/>
 
 ## Índice
 * [Features](#features)
@@ -19,7 +19,7 @@
 ### Features
 
 - [x] Criação de anúncios de jogadores
-- [x] Listagem de jogadores disponíveis
+- [ ] Listagem de jogadores disponíveis
 - [ ] Autenticação do usuário com o Discord
 
 ### Instalação
@@ -45,7 +45,6 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
-# O servidor deverá ficar rodando em segundo plano para que o projeto Web e Mobile consumam os dados do banco.
 # Caso a porta do servidor for diferente de '3333', será necessário alterar a URL da requisição da API nos arquivos App.tsx e src/components/CreateAdModal.tsx
 ```
 
